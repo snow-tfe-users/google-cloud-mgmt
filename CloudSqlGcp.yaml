@@ -5,7 +5,7 @@ resources:
     type: cloudsql.jinja
     properties:
       database:
-        name: test
+        name: testcsqlgcp
       dbUser:
         user: root
         password: test123_
